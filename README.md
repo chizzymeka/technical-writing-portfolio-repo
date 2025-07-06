@@ -6,7 +6,7 @@ Beyond this portfolio, I also have an open-access version of my PhD thesis on *I
 
 ---
 
-### 1. Documentation Delivery Plan – Material Integration Platform [<a href="./documents/[Documentation Delivery Plan] Material Integration Platform.pdf" target="_blank">View Document</a>]
+### 1. [Documentation Delivery Plan – Material Integration Platform](./documents/material_integration_platform.pdf)
 
 **Type**: Software Development Documentation Plan  
 **Audience**: Engineering team, project managers, stakeholders  
@@ -18,19 +18,19 @@ It showcases planning within an Agile environment, including Jira-compatible tas
 
 ---
 
-### 2. Node.js Monitoring [<a href="./documents/[Article] Node.js Monitoring.pdf" target="_blank">View Document</a>]
+### 2. [Node.js Monitoring](./documents/node_js_monitoring.pdf)
 
 **Type**: Technical Article  
 **Audience**: Developers, DevOps engineers  
 **Role**: Author and technical researcher  
 **Tool**: Google Docs  
 **Scope**: Node.js, ESLint, Monitoring Tools Research  
-**Context**: A concise article explaining the importance of monitoring asynchronous Node.js applications.project's context, showcasing my ability to clearly and effectively communicate complex technical concepts
+**Context**: A concise article explaining the importance of monitoring asynchronous Node.js applications.
 It covers common challenges and offers guidance on monitoring metrics and dashboard expectations.
 
 ---
 
-### 3. How to Migrate and Convert Access to SQL Server [<a href="./documents/[Article] How To Migrate and Convert Access to SQL Server.pdf" target="_blank">View Document</a>]
+### 3. [How to Migrate and Convert Access to SQL Server](./documents/how_to_migrate_and_convert_access_to_sql_server.pdf)
 
 **Type**: Technical Guide/Migration Playbook  
 **Audience**: DBAs, IT migration teams, systems integrators  
@@ -42,7 +42,7 @@ Emphasises performance, security, and business continuity throughout the migrati
 
 ---
 
-### 4. Addressing Regulatory Non-Compliance Due to Legacy Operating Systems [<a href="./documents/[White Paper] Addressing Regulatory Non-Compliance Due to Legacy Operating Systems.pdf" target="_blank">View Document</a>]
+### 4. [Addressing Regulatory Non-Compliance Due to Legacy Operating Systems](./documents/addressing_regulatory_non_compliance_due_to_legacy_operating_systems.pdf)
 
 **Type**: White Paper  
 **Audience**: CTOs, compliance officers, IT decision-makers  
@@ -54,7 +54,7 @@ The paper links legacy technology to modern compliance failures and proposes a m
 
 ---
 
-### 5. JavaScript Coding Guideline Compliance on Stack Overflow [<a href="./documents/[Report] JavaScript Coding Guideline Compliance on Stack Overflow.pdf" target="_blank">View Document</a>]
+### 5. [JavaScript Coding Guideline Compliance on Stack Overflow](./documents/javascript_coding_guideline_compliance_on_stack_overflow.pdf)
 
 **Type**: Research Report  
 **Audience**: Researchers, secure coding educators, developer community managers  
@@ -66,7 +66,7 @@ Demonstrates programming toolchain integration, statistical analysis, and action
 
 ---
 
-### 6. How To Get SOC 2 Type 2 Without Slowing Down Your SaaS [<a href="./documents/[Article] How To Get SOC 2 Type 2 Without Slowing Down Your SaaS.pdf" target="_blank">View Document</a>]
+### 6. [How To Get SOC 2 Type 2 Without Slowing Down Your SaaS](./documents/how_to_get_soc_2_type_2_without_slowing_down_your_saas.pdf)
 
 **Type**: Blog Article  
 **Audience**: SaaS founders, compliance officers, engineering managers  
@@ -78,7 +78,7 @@ It explains auditing strategies, team preparation, and long-term benefits, servi
 
 ---
 
-### 7. Point Cloud Classification and Machine Learning [<a href="./documents/[Article] Point Cloud Classification and Machine Learning.pdf" target="_blank">View Document</a>]
+### 7. [Point Cloud Classification and Machine Learning](./documents/point_cloud_classification_and_machine_learning.pdf)
 
 **Type**: Educational Article  
 **Audience**: ML beginners, spatial data engineers, 3D modelling professionals  
@@ -91,7 +91,7 @@ Includes a security awareness section to illustrate the implications in safety-c
 
 ---
 
-### 8. The Economics of Privacy [<a href="./documents/[Essay] The Economics of Privacy.pdf" target="_blank">View Document</a>]
+### 8. [The Economics of Privacy](./documents/the_economics_of_privacy.pdf)
 
 **Type**: Academic Essay  
 **Audience**: Policymakers, privacy scholars, tech ethicists  
@@ -104,7 +104,7 @@ Demonstrates strong analytical writing and cross-disciplinary perspective.
 
 ---
 
-### 9. Software Architecture [<a href="./documents/[Presentation] Software Architecture.pdf" target="_blank">View Document</a>]
+### 9. [Software Architecture](./documents/software_architecture.pdf)
 
 **Type**: Educational Presentation  
 **Audience**: Software developers, computer science students, tech educators  
