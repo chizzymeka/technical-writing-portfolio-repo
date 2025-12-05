@@ -1,12 +1,14 @@
+# Technical Writing Portfolio
+
 Welcome to my technical writing portfolio. Here you will find a curated selection of my work, demonstrating expertise in software documentation, technical articles, migration guides, compliance white papers, research reports, and educational content. Each entry highlights my role, target audience, tools used, and the project's context, showcasing my ability to clearly and effectively communicate complex technical concepts.
 
 I have carefully ensured that my curation mostly features work that I completed before the emergence of LLMs, as this better demonstrates my skills in technical writing, research, and communication.
 
-Beyond this portfolio, I also have an open-access version of my PhD thesis on *Information Retrieval-Driven Software Vulnerability Prediction* available on <a href="https://discovery.ucl.ac.uk/id/eprint/10207359/" target="_blank">UCL Discovery</a>, which represents the culmination and pinnacle of my current skillset in terms of technical ability, knowledge of tools, analytical skills, research, and most importantly, writing skills.
+Beyond this portfolio, I also have an open-access version of my PhD thesis on *Information Retrieval-Driven Software Vulnerability Prediction* available on [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10207359), which represents the culmination and pinnacle of my current skillset in terms of technical ability, knowledge of tools, analytical skills, research, and most importantly, writing skills.
 
 ---
 
-### 10. [From Black Box to Glass Box: Making Container Security Explainable](./documents/from-black-box-to-glass-box-making-container-security-explainable.pdf)
+## 10. [From Black Box to Glass Box: Making Container Security Explainable](./documents/from-black-box-to-glass-box-making-container-security-explainable.pdf)
 
 **Type**: Opinion Piece  
 **Audience**: DevSecOps professionals, software engineers, security researchers  
@@ -19,7 +21,7 @@ The article explores the intersection of container security and explainable AI, 
 
 ---
 
-### 9. [Documentation Delivery Plan – Material Integration Platform](./documents/material_integration_platform.pdf)
+## 9. [Documentation Delivery Plan – Material Integration Platform](./documents/material_integration_platform.pdf)
 
 **Type**: Software Development Documentation Plan  
 **Audience**: Engineering team, project managers, stakeholders  
@@ -32,7 +34,7 @@ It showcases planning within an Agile environment, including Jira-compatible tas
 
 ---
 
-### 8. [Node.js Monitoring](./documents/node_js_monitoring.pdf)
+## 8. [Node.js Monitoring](./documents/node_js_monitoring.pdf)
 
 **Type**: Technical Article  
 **Audience**: Developers, DevOps engineers  
@@ -45,7 +47,7 @@ It covers common challenges and offers guidance on monitoring metrics and dashbo
 
 ---
 
-### 7. [How to Migrate and Convert Access to SQL Server](./documents/how_to_migrate_and_convert_access_to_sql_server.pdf)
+## 7. [How to Migrate and Convert Access to SQL Server](./documents/how_to_migrate_and_convert_access_to_sql_server.pdf)
 
 **Type**: Technical Guide/Migration Playbook  
 **Audience**: DBAs, IT migration teams, systems integrators  
@@ -58,7 +60,7 @@ Emphasises performance, security, and business continuity throughout the migrati
 
 ---
 
-### 6. [Addressing Regulatory Non-Compliance Due to Legacy Operating Systems](./documents/addressing_regulatory_non_compliance_due_to_legacy_operating_systems.pdf)
+## 6. [Addressing Regulatory Non-Compliance Due to Legacy Operating Systems](./documents/addressing_regulatory_non_compliance_due_to_legacy_operating_systems.pdf)
 
 **Type**: White Paper  
 **Audience**: CTOs, compliance officers, IT decision-makers  
@@ -71,7 +73,7 @@ The paper links legacy technology to modern compliance failures and proposes a m
 
 ---
 
-### 5. [JavaScript Coding Guideline Compliance on Stack Overflow](./documents/javascript_coding_guideline_compliance_on_stack_overflow.pdf)
+## 5. [JavaScript Coding Guideline Compliance on Stack Overflow](./documents/javascript_coding_guideline_compliance_on_stack_overflow.pdf)
 
 **Type**: Research Report  
 **Audience**: Researchers, secure coding educators, developer community managers  
@@ -84,7 +86,7 @@ Demonstrates programming toolchain integration, statistical analysis, and action
 
 ---
 
-### 4. [How To Get SOC 2 Type 2 Without Slowing Down Your SaaS](./documents/how_to_get_soc_2_type_2_without_slowing_down_your_saas.pdf)
+## 4. [How To Get SOC 2 Type 2 Without Slowing Down Your SaaS](./documents/how_to_get_soc_2_type_2_without_slowing_down_your_saas.pdf)
 
 **Type**: Blog Article  
 **Audience**: SaaS founders, compliance officers, engineering managers  
@@ -97,7 +99,7 @@ It explains auditing strategies, team preparation, and long-term benefits, servi
 
 ---
 
-### 3. [Point Cloud Classification and Machine Learning](./documents/point_cloud_classification_and_machine_learning.pdf)
+## 3. [Point Cloud Classification and Machine Learning](./documents/point_cloud_classification_and_machine_learning.pdf)
 
 **Type**: Educational Article  
 **Audience**: ML beginners, spatial data engineers, 3D modelling professionals  
@@ -111,7 +113,7 @@ Includes a security awareness section to illustrate the implications in safety-c
 
 ---
 
-### 2. [The Economics of Privacy](./documents/the_economics_of_privacy.pdf)
+## 2. [The Economics of Privacy](./documents/the_economics_of_privacy.pdf)
 
 **Type**: Academic Essay  
 **Audience**: Policymakers, privacy scholars, tech ethicists  
@@ -125,7 +127,7 @@ Demonstrates strong analytical writing and cross-disciplinary perspective.
 
 ---
 
-### 1. [Software Architecture](./documents/software_architecture.pdf)
+## 1. [Software Architecture](./documents/software_architecture.pdf)
 
 **Type**: Educational Presentation  
 **Audience**: Software developers, computer science students, tech educators  
