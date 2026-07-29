@@ -1,5 +1,3 @@
-**Chizzy Meka – Technical Writing Portfolio**
-
 Welcome to my technical writing portfolio. Here you will find a curated selection of my work, demonstrating expertise in software documentation, technical articles, migration guides, compliance white papers, research reports, and educational content. Each entry highlights my role, target audience, tools used, and the project's context, showcasing my ability to clearly and effectively communicate complex technical concepts.
 
 I have carefully ensured that my curation mostly features work that I completed before the emergence of LLMs, as this better demonstrates my skills in technical writing, research, and communication.
