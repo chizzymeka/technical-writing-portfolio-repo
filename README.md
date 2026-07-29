@@ -24,7 +24,7 @@ It showcases planning within an Agile environment, including Jira-compatible tas
 **Audience**: Developers, DevOps engineers  
 **Role**: Author and technical researcher  
 **Tool**: Google Docs  
-**Scope**: Node.js, ESLint, Monitoring Tools Research  
+**Scope**: Node.js, Monitoring Tools Research  
 **Context**: A concise article explaining the importance of monitoring asynchronous Node.js applications.
 It covers common challenges and offers guidance on monitoring metrics and dashboard expectations.
 
