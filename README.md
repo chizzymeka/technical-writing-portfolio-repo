@@ -10,12 +10,12 @@ Beyond this portfolio, I also have an open-access version of my PhD thesis on *I
 
 ## 11. [Implementing US Instant Payment Returns with the Form3 API](./documents/implementing-us-instant-payment-returns-with-the-form3-api.pdf)
 
-**Type** : Technical Tutorial/API Integration Guide
-**Audience** : Software engineers, fintech developers, banking platform integrators
-**Role** : Sole author
-**Year** : 2026
-**Tool** : Markdown
-**Scope** : Form3 API, US Instant Payments (RTP & FedNow), Python, RESTful API Integration
+**Type** : Technical Tutorial/API Integration Guide  
+**Audience** : Software engineers, fintech developers, banking platform integrators  
+**Role** : Sole author  
+**Year** : 2026  
+**Tool** : Markdown  
+**Scope** : Form3 API, US Instant Payments (RTP & FedNow), Python, RESTful API Integration  
 **Context** : A hands-on tutorial guiding developers through the technical process of implementing payment returns within the Form3 US Instant payment ecosystem. The article breaks down the complex relationship between original payment resources and return submissions, provides detailed request field specifications, and offers a practical Python implementation example using the `requests` library. It is designed to help engineering teams navigate the specific requirements of both RTP and FedNow schemes through a unified API interface, ensuring accurate fund reversal and robust integration testing.
 
 ## 10. [From Black Box to Glass Box: Making Container Security Explainable](./documents/from-black-box-to-glass-box-making-container-security-explainable.pdf)
